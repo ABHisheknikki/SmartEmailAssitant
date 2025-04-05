@@ -1,0 +1,29 @@
+Page 8: Technology & Security Protocols
+
+Acceptable Use Policy:
+
+Company technology resources, including computers, networks, and internet access, are to be used primarily for business purposes.
+
+Personal use of company technology resources should be limited and should not interfere with work responsibilities.
+
+Employees are prohibited from accessing or distributing inappropriate or offensive content.
+
+Security Protocols:
+
+Employees are responsible for protecting the confidentiality of their passwords and other sensitive information.
+
+Employees must not share their passwords with others.
+
+Employees must log off of their computers when they are not in use.
+
+Employees must report any suspected security breaches to the IT department immediately.
+
+Use of personal devices (BYOD) for company business is subject to strict security protocols managed by the IT department.
+
+Data Backup and Recovery:
+
+The IT department maintains a comprehensive data backup and recovery system to protect company data from loss or corruption. Employees should regularly save their work and follow the IT department's instructions for data storage.
+
+Software and Hardware Standards:
+
+All software and hardware used by the company must be approved by the IT department. Employees are not permitted to install unauthorized software on company computers.

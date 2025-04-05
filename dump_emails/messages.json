@@ -1,0 +1,53 @@
+[
+    {
+      "threadId": "BudgetReview2024_Preliminary",
+      "messageId": "MSG001",
+      "to": "bob.finance@examplefinance.com",
+      "from": "alice.finance@examplefinance.com",
+      "subject": "Preliminary Budget Review - Q3 2024",
+      "body": "Hi Bob,\n\nHope you're having a good week.\n\nI've attached the preliminary budget figures for Q3 2024. Could you take a look and let me know if you have any initial concerns or questions? We should schedule a quick meeting to discuss.\n\nThanks,\nAlice",
+      "time": "09:15",
+      "date": "16/10/2024"
+    },
+    {
+      "threadId": "BudgetReview2024_Preliminary",
+      "messageId": "MSG002",
+      "to": "alice.finance@examplefinance.com",
+      "from": "bob.finance@examplefinance.com",
+      "subject": "Re: Preliminary Budget Review - Q3 2024",
+      "body": "Hi Alice,\n\nThanks for sharing the budget figures. I'll review them today and get back to you with my comments. Let's aim to schedule the meeting for Thursday.\n\nBest,\nBob",
+      "time": "11:30",
+      "date": "16/10/2024"
+    },
+    {
+      "threadId": "BudgetReview2024_Preliminary",
+      "messageId": "MSG003",
+      "to": "bob.finance@examplefinance.com",
+      "from": "alice.finance@examplefinance.com",
+      "subject": "Re: Preliminary Budget Review - Q3 2024",
+      "body": "Hi Bob,\n\nThursday works for me. Let me know what time suits you best, and I’ll block my calendar.\n\nThanks,\nAlice",
+      "time": "13:45",
+      "date": "16/10/2024"
+    },
+    {
+      "threadId": "BudgetReview2024_Preliminary",
+      "messageId": "MSG004",
+      "to": "alice.finance@examplefinance.com",
+      "from": "bob.finance@examplefinance.com",
+      "subject": "Re: Preliminary Budget Review - Q3 2024",
+      "body": "Hi Alice,\n\nHow about Thursday at 3 PM? Let me know if that works for you.\n\nBest,\nBob",
+      "time": "14:10",
+      "date": "16/10/2024"
+    },
+    {
+      "threadId": "BudgetReview2024_Preliminary",
+      "messageId": "MSG005",
+      "to": "bob.finance@examplefinance.com",
+      "from": "alice.finance@examplefinance.com",
+      "subject": "[Confirmed] Preliminary Budget Review - Q3 2024 Meeting Time",
+      "body": "Hi Bob,\n\nThursday at 3 PM works perfectly. I’ll send out a calendar invite shortly.\n\nThanks,\nAlice",
+      "time": "14:30",
+      "date": "16/10/2024"
+    }
+]
+  

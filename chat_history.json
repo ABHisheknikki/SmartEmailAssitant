@@ -1,0 +1,10 @@
+[
+  {
+    "query": "mention two departments in apex financial firm",
+    "answer": "Okay, based on the provided document, here are two departments at Apex Global Investments:\n\n1.  Human Resources (mentioned on Page 1, for handbook questions)\n2.  Finance (based on the email exchange regarding budget review)"
+  },
+  {
+    "query": "Founding of Apex Global Investments in which year?",
+    "answer": "2008"
+  }
+]
